@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.cguambas2</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\master\Documents\CG\cguambaS2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>DBB09BEEF4C70E96EF37E6F74601406FF67E87EC171E76DE11D934EFA92274A1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.cguambas2_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.cguambas2_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,268 +26,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\master\Documents\CG\cguambaS2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-05T02:38:14.199</Modified>
+      <Modified>2024-06-08T02:39:44.180</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-05T02:38:14.082</Modified>
+      <Modified>2024-06-08T02:39:44.113</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cguambaS2.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cguambaS2.runtimeconfig.json">
       <PackagePath>cguambaS2.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-05T01:26:26.957</Modified>
+      <Modified>2024-06-08T02:28:55.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cguambaS2.dll">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cguambaS2.dll">
       <PackagePath>cguambaS2.dll</PackagePath>
-      <Modified>2024-06-05T02:38:13.414</Modified>
+      <Modified>2024-06-08T02:39:43.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>cguambaS2.exe</PackagePath>
-      <Modified>2024-06-05T02:38:13.424</Modified>
+      <Modified>2024-06-08T02:39:43.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-06-05T01:21:26.176</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:44.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:44.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:44.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:44.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:44.998</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-06-05T01:21:26.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-06-05T01:21:26.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-06-05T01:21:45.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.943</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.998</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:46.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-06-05T01:21:45.702</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-06-05T01:21:45.706</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-06-05T01:21:45.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-06-05T01:21:45.710</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-06-05T01:21:45.715</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-06-05T01:21:45.674</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-06-05T01:21:45.679</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-06-05T01:21:45.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-06-05T01:21:45.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-06-05T01:21:45.688</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.631</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:45.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-06-05T01:21:45.643</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-06-05T01:21:45.649</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-06-05T01:21:45.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-06-05T01:21:45.653</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-06-05T01:21:45.657</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:45.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:45.781</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.728</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.733</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:45.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:45.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-06-05T01:21:45.605</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-06-05T01:21:45.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-06-05T01:21:45.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-06-05T01:21:45.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-06-05T01:21:45.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\Documents\CG\cguambaS2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cguambaS2.deps.json">
+    <AppxPackagedFile Include="C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cguambaS2.deps.json">
       <PackagePath>cguambaS2.deps.json</PackagePath>
-      <Modified>2024-06-05T01:26:26.857</Modified>
+      <Modified>2024-06-08T02:28:55.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\master\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

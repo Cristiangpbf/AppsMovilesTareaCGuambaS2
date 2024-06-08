@@ -86,13 +86,6 @@
                 BackgroundColor="Yellow"
                 />
 
-            <Entry
-                x:Name="txtDato2"
-                Placeholder="ingrese dato 2"
-                Keyboard="Numeric"
-                MaxLength="4"
-                />
-
             <Label 
                 Text="Ingrese fecha del registro: "
                 FontSize="15"
@@ -107,6 +100,7 @@
                 Format="dd/mm/yyyy"/>
 
             <Label 
+                x:Name="lblNotaFinal"
                 Text="Nota Final: "
                 FontSize="18"
                 FontAttributes="Bold"
