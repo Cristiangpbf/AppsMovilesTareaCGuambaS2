@@ -7,28 +7,29 @@ public partial class vPrincipal : ContentPage
 		InitializeComponent();
 	}
 
-    private void btnCalcular_Clicked(object sender, EventArgs e)
+    private void BtnCalcular_Clicked(object sender, EventArgs e)
     {
         try
         {
-            validarCampos();
+            ValidarCampos();
 
             string estudiante = pkEstudiantes.SelectedItem.ToString();
-            double numSegP1 = obtieneDoubleYValidaEntradaNumerica(txtNumSegP1);
-            double numExamP1 = obtieneDoubleYValidaEntradaNumerica(txtNumExamP1);
-            double numSegP2 = obtieneDoubleYValidaEntradaNumerica(txtNumSegP2);
-            double numExamP2 = obtieneDoubleYValidaEntradaNumerica(txtNumExamP2);
+            double numSegP1 = ObtieneDoubleYValidaEntradaNumerica(txtNumSegP1);
+            double numExamP1 = ObtieneDoubleYValidaEntradaNumerica(txtNumExamP1);
+            double numSegP2 = ObtieneDoubleYValidaEntradaNumerica(txtNumSegP2);
+            double numExamP2 = ObtieneDoubleYValidaEntradaNumerica(txtNumExamP2);
             string fechaRegistro = dpFecha.Date.ToShortDateString();        
 
-            double notaParcial1 = calculaProporcion(numSegP1, numExamP1);
-            double notaParcial2 = calculaProporcion(numSegP2, numExamP2);
+            double notaParcial1 = CalculaProporcion(numSegP1, numExamP1);
+            double notaParcial2 = CalculaProporcion(numSegP2, numExamP2);
 
             double final = notaParcial1 + notaParcial2;
 
             lblNotaParcial1.Text = "Nota Parcial (1): " + notaParcial1.ToString();
             lblNotaParcial2.Text = "Nota Parcial (2): " + notaParcial2.ToString();
-
             lblNotaFinal.Text = "Nota Final: " + final.ToString();
+
+            string estado = EvaluaEstado(final);
 
             DisplayAlert("MENSAJE DE BIENVENIDA",
                 "Bienvenido " +
@@ -40,43 +41,62 @@ public partial class vPrincipal : ContentPage
                 "\nNota Examen 2:\t\t" + numExamP2 +
                 "\nNota Parcial 2:\t\t" + notaParcial2 +
                 "\n\nNOTA FINAL 2:\t" + final +
-                "\n\nFecha del registro 2:\t" + fechaRegistro, "OK");
-        }
-        catch (Exception ex)
-        {
+                "\nEstado estudiante:\t\t" + estado+
+                "\n\nFecha del registro:\t" + fechaRegistro, "OK");
+        } catch (Exception ex) {
             DisplayAlert("ERROR", ex.Message, "Cerrar");
         }
     }
 
-    private double calculaProporcion(double numSeg, double numExam)
+    private string EvaluaEstado(double final)
     {
-        return Math.Round( (numSeg*0.02) + (numExam*0.03) , 2);
+        if (final >= 7)
+        {
+            return "APROBADO";
+        }
+        else if (final >= 5 && final < 7)
+        {
+            return "COMPLEMENTARIO";
+        }
+        else
+        {
+            return "REPROBADO";
+        }
+
     }
 
-    private double obtieneDoubleYValidaEntradaNumerica(Entry txtEntry)
+    private double CalculaProporcion(double numSeg, double numExam)
     {
+        return Math.Round( (numSeg*0.2) + (numExam*0.3) , 2);
+    }
+
+    private double ObtieneDoubleYValidaEntradaNumerica(Entry txtEntry)
+    {
+        double valor;
         try
         {
-            double valor = Convert.ToDouble(txtEntry.Text);
-            if (valor > 10)
-            {
-                throw new Exception("El valor no puede ser mayor a 10");
-            }
-            if (string.IsNullOrWhiteSpace(txtEntry.Text))
-            {
-                txtEntry.Focus();
-                throw new Exception("Campo es obligatorio");
-            }
-            return valor;
+            valor = Convert.ToDouble(txtEntry.Text);            
         }
         catch (Exception ex)
         {
             txtEntry.Focus();
-            throw new Exception("Error al con el campo númerico (Entero con decimales separado por coma), por favor corrija el valor y vuelva a intentar. "+ex.Message.ToString());
+            throw new Exception("Error con el campo númerico (Entero con decimales separado por coma), " +
+                "por favor corrija el valor y vuelva a intentar. "+ex.Message.ToString());
         }
+        if (valor > 10)
+        {
+            txtEntry.Focus();
+            throw new Exception("El valor no puede ser mayor a 10");
+        }
+        if (string.IsNullOrWhiteSpace(txtEntry.Text))
+        {
+            txtEntry.Focus();
+            throw new Exception("Campo es obligatorio");
+        }
+        return valor;
     }
 
-    private void validarCampos()
+    private void ValidarCampos()
     {
 
         try

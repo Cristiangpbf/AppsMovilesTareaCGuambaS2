@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|d:\\cris\\documentos\\israel\\semestre 8\\aplicaciones m\u00F3viles\\semana2\\tarea s2\\appsmovilestareacguambas2\\vistas\\vprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|solutionrelative:vistas\\vprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|d:\\cris\\documentos\\israel\\semestre 8\\aplicaciones m\u00F3viles\\semana2\\tarea s2\\appsmovilestareacguambas2\\vistas\\vprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|solutionrelative:vistas\\vprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -16,10 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|d:\\cris\\documentos\\israel\\semestre 8\\aplicaciones m\u00F3viles\\semana2\\tarea s2\\appsmovilestareacguambas2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|d:\\cris\\documentos\\israel\\semestre 8\\aplicaciones m\u00F3viles\\semana2\\tarea s2\\appsmovilestareacguambas2\\vistas\\vprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC30E65D-B2C0-4FC2-ADED-77C711BA5706}|cguambaS2.csproj|solutionrelative:vistas\\vprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,7 +37,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Xamarin.Android.Aapt2.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.95\\tools\\Xamarin.Android.Aapt2.targets",
@@ -74,26 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "vPrincipal.xaml.cs",
               "DocumentMoniker": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\vistas\\vPrincipal.xaml.cs",
               "RelativeDocumentMoniker": "vistas\\vPrincipal.xaml.cs",
-              "ToolTip": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\vistas\\vPrincipal.xaml.cs",
-              "RelativeToolTip": "vistas\\vPrincipal.xaml.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAlwA8AAAAgAAAA",
+              "ToolTip": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\vistas\\vPrincipal.xaml.cs*",
+              "RelativeToolTip": "vistas\\vPrincipal.xaml.cs*",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFMAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T01:37:00.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "vPrincipal.xaml",
               "DocumentMoniker": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\vistas\\vPrincipal.xaml",
               "RelativeDocumentMoniker": "vistas\\vPrincipal.xaml",
               "ToolTip": "D:\\CRIS\\Documentos\\Israel\\semestre 8\\Aplicaciones m\u00F3viles\\semana2\\Tarea s2\\AppsMovilesTareaCGuambaS2\\vistas\\vPrincipal.xaml",
               "RelativeToolTip": "vistas\\vPrincipal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-08T01:36:57.847Z",
               "EditorCaption": ""

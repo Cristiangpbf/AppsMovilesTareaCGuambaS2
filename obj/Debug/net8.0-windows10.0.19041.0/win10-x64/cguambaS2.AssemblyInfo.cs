@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cguambaS2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+24eeec02ad8315be58a2cd5b521244d79f35c423")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+34df33c52d5b0bae8fdbe691700c89f26840d06a")]
 [assembly: System.Reflection.AssemblyProductAttribute("cguambaS2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cguambaS2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
