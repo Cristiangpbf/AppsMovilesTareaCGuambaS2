@@ -18,11 +18,12 @@
 
             <Picker x:Name="pkEstudiantes" Title="Estudiantes">
                 <Picker.Items>
-                    <x:String>Estudiante 1</x:String>
-                    <x:String>Estudiante 2</x:String>
-                    <x:String>Estudiante 3</x:String>
-                    <x:String>Estudiante 4</x:String>
-                    <x:String>Estudiante 5</x:String>
+                    <x:String>Cristian Guamba</x:String>
+                    <x:String>Katherine Reinoso</x:String>
+                    <x:String>Darío Guamba</x:String>
+                    <x:String>Daniela Guamba</x:String>
+                    <x:String>Franklin Guamba</x:String>
+                    <x:String>María Muñoz</x:String>
                 </Picker.Items>
             </Picker>
 

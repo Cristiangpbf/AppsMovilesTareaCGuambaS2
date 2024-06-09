@@ -1,1 +1,1 @@
-C:\Users\master\Documents\CG\semana2\Tareasemana2\AppsMovilesTareaSemana2\cguambaS2.csproj;x64
+D:\CRIS\Documentos\Israel\semestre 8\Aplicaciones móviles\semana2\Tarea s2\AppsMovilesTareaCGuambaS2\cguambaS2.csproj;x64

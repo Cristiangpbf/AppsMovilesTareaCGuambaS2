@@ -6,6 +6,9 @@
         {
             InitializeComponent();
 
+            // Establecer el tema de la aplicación a claro
+            //Application.Current.UserAppTheme = AppTheme.Light;
+
             MainPage = new vistas.vPrincipal();
         }
     }
